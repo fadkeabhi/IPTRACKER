@@ -1,5 +1,5 @@
 
-h#modules required
+#modules required
 import argparse
 import requests, json
 import sys
